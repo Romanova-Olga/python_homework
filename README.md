@@ -1,2 +1,2 @@
-# python_homewor
+# python_homework
 пример простой веб страницы
